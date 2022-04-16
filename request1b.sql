@@ -1,0 +1,1 @@
+-- This request return the total amount of "vol" operated by every single "aviondefret"
